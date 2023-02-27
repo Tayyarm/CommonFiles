@@ -9,3 +9,6 @@ StdOut:
   
 StdDraw:
   Has Utility routine to draw.
+  
+StdRandom:
+  Generates a random number.
